@@ -4,7 +4,7 @@ A PyTorch implementation of "Towards Fair Graph Learning without Demographic Inf
 
 ## Cite
 
-If you find this repo to be useful, please cite our paper. Thank you.
+If you find our paper helps your research, we would appreciate citations to the following paper:
 ```
 @inproceedings{wang2025towards,
   title={Towards Fair Graph Learning without Demographic Information},
